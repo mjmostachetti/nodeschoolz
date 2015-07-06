@@ -1,0 +1,13 @@
+{
+  "name": "npm_nodeschool",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": " www.google.com"
+}
